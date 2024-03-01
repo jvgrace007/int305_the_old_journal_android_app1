@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Old Journal 2</string>
+    <string name="tol_image_content_description">Description of the tol image</string>
+    <string name="ab_image_content_description">Description of the ab image</string>
+    <string name="button_1">New Entry</string>
+    <string name="button_2">My Work</string>
+    <string name="button_3">Publish</string>
+    <string name="button_4">Top Post</string>
+
+
+</resources>
